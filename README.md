@@ -27,5 +27,5 @@
   - Esses sistema é direcionado a funcionários de escolas
   - Permite cadastrar, editar, listar e deletar alunos, cursos, matrículas e funcionários
   
-## Modelo de Negócio:
+## MODELO DE NEGÓCIO:
   ![Business Model Canvas](images/business-model-canvas.png)
