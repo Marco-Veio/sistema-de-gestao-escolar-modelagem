@@ -29,3 +29,30 @@
   
 ## MODELO DE NEGÓCIO:
   ![Business Model Canvas](images/business-model-canvas.png)
+
+
+## REQUISITOS:
+1. Requisitos Funcionais:
+  - Cadastrar alunos
+  - Cadastrar funcionários
+  - Cadastrar cursos
+  - Listar alunos
+  - Listar cursos
+  - Listar funcionários
+  - Mostrar os dados do aluno
+  - Mostrar os dados do funcionário
+  - Mostrar os dados do curso
+  - Realizar as matrículas
+  - Editar os dados do aluno
+  - Editar os dados do funcionário
+  - Editar os dados do curso
+  - Excluir os alunos
+  - Excluir os funcionários
+  - Excluir os cursos
+  - Excluir as matrículas
+2. Requisitos Não Funcionais:
+  - Autenticação
+  - Interface com navegação padronizada e consistente entre as telas
+  - Interface responsiva e adaptativa a diversas resoluções de tela e dispositivos diferentes, como computador, celular e tablet
+  - Interface deve ser compatível com os principais navegadores web
+  - Criptografar as senhas antes de salvá-las no banco de dados
