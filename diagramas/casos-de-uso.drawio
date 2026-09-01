@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="uxF9B1fGxW8dC2y2zB2n" name="Page-1">
-        <mxGraphModel dx="2429" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1682" dy="938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -186,7 +186,7 @@
                 <mxCell id="152" value="Realizar matrículas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="910" y="340" width="160" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="154" value="Excluir&lt;font color=&quot;#484848&quot;&gt;&amp;nbsp;matrículas&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                <mxCell id="154" value="Excluir matrículas&lt;font color=&quot;#484848&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="910" y="420" width="160" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="156" value="Mostrar cursos em que cada aluno está matriculado" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
