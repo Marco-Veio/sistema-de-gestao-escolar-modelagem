@@ -76,3 +76,6 @@
 
 ## CASOS DE USO:
   ![Casos de uso](images/diagrama-casos-de-uso.png)
+
+## Classes:
+  ![Classes](images/diagrama-classes.png)
