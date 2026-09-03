@@ -83,3 +83,5 @@
 ## Sequências:
 - Login:
   ![Login](images/diagrama-sequencia-login.png)
+- Cadastro funcionário:
+  ![Cadastro funcionário](images/diagrama-sequencia-cadastro-funcionario.png)
