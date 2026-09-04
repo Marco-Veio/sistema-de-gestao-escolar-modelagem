@@ -89,3 +89,9 @@
   ![Cadastro aluno](images/diagrama-sequencia-cadastro-aluno.png)
 - Cadastro curso:
   ![Cadastro curso](images/diagrama-sequencia-cadastro-curso.png)
+- Lista de funcionários:
+  ![Lista funcionários](images/diagrama-sequencia-lista-funcionários.png)
+- Lista de alunos:
+  ![Lista alunos](images/diagrama-sequencia-lista-alunos.png)
+- Lista de cursos:
+  ![Lista cursos](images/diagrama-sequencia-lista-cursos.png)
