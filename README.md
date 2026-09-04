@@ -85,3 +85,7 @@
   ![Login](images/diagrama-sequencia-login.png)
 - Cadastro funcionário:
   ![Cadastro funcionário](images/diagrama-sequencia-cadastro-funcionario.png)
+- Cadastro aluno:
+  ![Cadastro aluno](images/diagrama-sequencia-cadastro-aluno.png)
+- Cadastro curso:
+  ![Cadastro curso](images/diagrama-sequencia-cadastro-curso.png)
