@@ -83,28 +83,88 @@
 ## Sequências:
 - Login:
   
-  ![Login](images/diagrama-sequencia-login.png)
+  ![Login](images/diagramas-sequencia/login.png)
 
 - Cadastro funcionário:
   
-  ![Cadastro funcionário](images/diagrama-sequencia-cadastro-funcionario.png)
+  ![Cadastro funcionário](images/diagramas-sequencia/cadastro-funcionario.png)
 
 - Cadastro aluno:
   
-  ![Cadastro aluno](images/diagrama-sequencia-cadastro-aluno.png)
+  ![Cadastro aluno](images/diagramas-sequencia/cadastro-aluno.png)
 
 - Cadastro curso:
   
-  ![Cadastro curso](images/diagrama-sequencia-cadastro-curso.png)
+  ![Cadastro curso](images/diagramas-sequencia/cadastro-curso.png)
 
 - Lista de funcionários:
   
-  ![Lista funcionários](images/diagrama-sequencia-lista-funcionários.png)
+  ![Lista funcionários](images/diagramas-sequencia/lista-funcionarios.png)
 
 - Lista de alunos:
   
-  ![Lista alunos](images/diagrama-sequencia-lista-alunos.png)
+  ![Lista alunos](images/diagramas-sequencia/lista-alunos.png)
 
 - Lista de cursos:
   
-  ![Lista cursos](images/diagrama-sequencia-lista-cursos.png)
+  ![Lista cursos](images/diagramas-sequencia/lista-cursos.png)
+
+- Dados do aluno:
+  
+  ![Dados do aluno](images/diagramas-sequencia/dados-aluno.png)
+
+- Dados do curso:
+  
+  ![Dados do curso](images/diagramas-sequencia/dados-curso.png)
+
+- Dados do funcionário:
+  
+  ![Dados do funcionário](images/diagramas-sequencia/dados-funcionario.png)
+
+- Edição do aluno:
+  
+  ![Edição do aluno](images/diagramas-sequencia/edicao-aluno.png)
+
+- Edição do curso:
+  
+  ![Edição do curso](images/diagramas-sequencia/edicao-curso.png)
+
+- Edição do funcionário:
+  
+  ![Edição do funcionário](images/diagramas-sequencia/edicao-funcionario.png)
+
+- Exclusão do aluno:
+  
+  ![Exclusão do aluno](images/diagramas-sequencia/exclusao-aluno.png)
+
+- Exclusão do curso:
+  
+  ![Exclusão do curso](images/diagramas-sequencia/exclusao-curso.png)
+
+- Exclusão do funcionário:
+  
+  ![Exclusão do funcionário](images/diagramas-sequencia/exclusao-funcionario.png)
+
+- Lista alunos pelo nome:
+  
+  ![Lista alunos pelo nome](images/diagramas-sequencia/lista-alunos-nome.png)
+
+- Lista alunos pelo CPF:
+  
+  ![Lista alunos pelo CPF](images/diagramas-sequencia/lista-alunos-cpf.png)
+
+- Lista funcionários pelo nome:
+  
+  ![Lista funcionários pelo nome](images/diagramas-sequencia/lista-funcionarios-nome.png)
+
+- Lista funcionários pelo CPF:
+  
+  ![Lista funcionários pelo CPF](images/diagramas-sequencia/lista-funcionarios-cpf.png)
+
+- Matricula alunos em cursos:
+
+  ![Matricula alunos em cursos](images/diagramas-sequencia/cadastro-matriculas.png)
+
+- Exclusão de matrículas
+
+  ![Exclusão de matrículas](images/diagramas-sequencia/exclusao-matriculas.png)
