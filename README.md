@@ -168,3 +168,7 @@
 - Exclusão de matrículas
 
   ![Exclusão de matrículas](images/diagramas-sequencia/exclusao-matriculas.png)
+
+## UX/UI:
+
+[Acesse o Figma](https://www.figma.com/design/Nv3BPviq3jKUqEDid07uc1/Sistema-de-Gest%C3%A3o-Escolar?node-id=1-2&t=5wOsWq5oudErz6gA-1)
